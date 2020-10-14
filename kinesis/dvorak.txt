@@ -1,0 +1,66 @@
+* arrows
+[up]>[left]
+[down]>[right]
+[right]>[up]
+[left]>[down]
+
+* misc
+[tab]>[caps]
+[intl-\]>[tab]
+{caps}>{speed9}{l}{s}{space}{hyphen}{l}{a}{enter}
+
+* invert branckets
+{obrack}>{speed9}{-lshift}{obrack}{+lshift}
+{lshift}{obrack}>{speed9}{obrack}
+{rshift}{obrack}>{speed9}{obrack}
+{cbrack}>{speed9}{-lshift}{cbrack}{+lshift}
+{lshift}{cbrack}>{speed9}{cbrack}
+{rshift}{cbrack}>{speed9}{cbrack}
+
+* function keys
+{F1}>{speed9}{-lalt}{-lshift}{+lalt}{+lshift}
+{F2}>{-lalt}{`}{+lalt}
+
+* left thumb cluster
+[delete]>[escape]
+{home}>{speed9}{-rctrl}{bspace}{+rctrl}
+[end]>[delete]
+
+* right thumb cluster
+{pup}>{speed9}{-rctrl}{c}{+rctrl}
+{pdown}>{speed9}{-rctrl}{-lshift}{v}{+lshift}{+rctrl}
+
+* invert numbers row
+{1}>{speed9}{-lshift}{1}{+lshift}
+{lshift}{1}>{speed9}{1}
+{rshift}{1}>{speed9}{1}
+{2}>{speed9}{-lshift}{2}{+lshift}
+{lshift}{2}>{speed9}{2}
+{rshift}{2}>{speed9}{2}
+{3}>{speed9}{-lshift}{3}{+lshift}
+{lshift}{3}>{speed9}{3}
+{rshift}{3}>{speed9}{3}
+{4}>{speed9}{-lshift}{4}{+lshift}
+{lshift}{4}>{speed9}{4}
+{rshift}{4}>{speed9}{4}
+{5}>{speed9}{-lshift}{5}{+lshift}
+{lshift}{5}>{speed9}{5}
+{rshift}{5}>{speed9}{5}
+{6}>{speed9}{-lshift}{6}{+lshift}
+{lshift}{6}>{speed9}{6}
+{rshift}{6}>{speed9}{6}
+{7}>{speed9}{-lshift}{7}{+lshift}
+{lshift}{7}>{speed9}{7}
+{rshift}{7}>{speed9}{7}
+{8}>{speed9}{-lshift}{8}{+lshift}
+{lshift}{8}>{speed9}{8}
+{rshift}{8}>{speed9}{8}
+{9}>{speed9}{-lshift}{9}{+lshift}
+{lshift}{9}>{speed9}{9}
+{rshift}{9}>{speed9}{9}
+{0}>{speed9}{-lshift}{0}{+lshift}
+{lshift}{0}>{speed9}{0}
+{rshift}{0}>{speed9}{0}
+{hyphen}>{speed9}{-lshift}{hyphen}{+lshift}
+{lshift}{hyphen}>{speed9}{hyphen}
+{rshift}{hyphen}>{speed9}{hyphen}

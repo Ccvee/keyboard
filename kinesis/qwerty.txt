@@ -1,0 +1,12 @@
+[up]>[left]
+[down]>[right]
+[right]>[up]
+[left]>[down]
+[intl-\]>[tab]
+[end]>[delete]
+[delete]>[escape]
+{F1}>{speed9}{-lalt}{-lshift}{+lalt}{+lshift}
+{F2}>{-lalt}{`}{+lalt}
+{home}>{speed9}{-rctrl}{bspace}{+rctrl}
+{pup}>{speed9}{-rctrl}{c}{+rctrl}
+{pdown}>{speed9}{-rctrl}{-lshift}{v}{+lshift}{+rctrl}
