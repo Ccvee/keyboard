@@ -100,8 +100,8 @@
 * other symbols
 [obrack]>[/]
 {cbrack}>{speed9}{-lshift}{5}{+lshift}
-{lshift}{cbrack}>{-lshift}{1}{+lshift}
-{rshift}{cbrack}>{-lshift}{1}{+lshift}
+{lshift}{cbrack}>{speed9}{-lshift}{1}{+lshift}
+{rshift}{cbrack}>{speed9}{-lshift}{1}{+lshift}
 {/}>{speed9}{-lshift}{2}{+lshift}
 {lshift}{/}>{speed9}{-lshift}{3}{+lshift}
 {rshift}{/}>{speed9}{-lshift}{3}{+lshift}
