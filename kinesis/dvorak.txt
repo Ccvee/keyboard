@@ -15,8 +15,8 @@
 
 * left thumb cluster
 [delete]>[escape]
-{home}>{speed9}{-rctrl}{bspace}{+rctrl}
-[end]>[delete]
+[home]>[delete]
+{end}>{speed9}{-rctrl}{bspace}{+rctrl}
 
 * right thumb cluster
 {pup}>{speed9}{-rctrl}{c}{+rctrl}
